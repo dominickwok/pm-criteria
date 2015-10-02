@@ -3,15 +3,22 @@
 ## Desired strengths
 
 ### Product Strategy (25%)
-* Owns a single, documented, clear, accessible product strategy that states the vision, goals, and roadmap for the product
-* Maintains a product vision that defines overarching goal for the product and how end-users will utltimately interact with the product
-* Substantiates the product vision by articulating the customer challenge, industry, business opportunity, competitors, differentiation, weaknesses, reference customers, go-to-market, and other details relevant to the product
-* Maintains product goals that enable quantitative measurement of success in achieving the product vision
-* Maintains a product roadmap that details an efficient methodology to achieve product goals and vision
-* Informs product strategy by building and sustaining thought-leadership on industry and technology trends
-* Informs product strategy by understanding end-user goals and frustrations through regular engagement with new and existing customers
-* Informs product strategy by balancing different stakeholder views and needs
+* Owns a clear, accessible product strategy that states the vision, goals, and roadmap for the product
+    - Vision
+        + Substantiates the product vision by *articulating the customer challenge, industry, business opportunity, competitors, differentiation, weaknesses, reference customers, go-to-market, and other details relevant to the product*
+        + Informs product strategy by understanding end-user goals and frustrations through regular engagement with new and existing customers
+        + Balances different stakeholder views and needs to inform product vision
+    - Goals
+        + Maintains clarity of product strategy by *defining overarching goals* for the product and how end-users will utltimately interact with the product
+        + Maintains product goals that enable *quantitative measurement* of success in achieving the product vision
+    - Roadmap
+        + Maintains a product roadmap that *details an efficient methodology* to achieve product goals and vision
+            * Question: What do you mean 'efficient methodology' here?
+        + Guides product roadmap by injecting *thought-leadership based on industry and technology trends into the vision*
+
 * Achieves buy-in from product team and internal stakeholders for product strategy 
+
+
 
 ### Execution (25%)
 * Takes ultimate ownership of the success or failure of the product
