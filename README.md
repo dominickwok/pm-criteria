@@ -28,9 +28,10 @@
 * Roadmap
     - Limits interruptions extraneous to product roadmap unless priorities warrant it (prevents context switching)
     - Creates a prioritized, as defined by business owner, and clearly-defined work backlog, sufficient for at least 2 sprints
-    - Works with key stakeholders to ensure roadmap's efficient approach focuses on delivering the highest value items first
+    - Works with key stakeholders to ensuEPMre roadmap's efficient approach focuses on delivering the highest value items first
 
 * Sprints
+    - Runs Sprint Review and Planning meetings
     - Stabilizes team velocity, and secondarily helps team become more efficient from sprint-to-sprint
     - Defends scope of current sprint religiously, but willing to yield given sufficient evidence and need
 
@@ -46,7 +47,8 @@
 
 
 
-### Measurement, Iteration, and Improvement (20%)
+### Measurement, Iteration, and Improvement (20%) 
+#### [MC NOTE: I don't think this can be bucketized in the same way]
 * Maintains a KPI scorecard that clearly defines what success means for the team
 * States what KPIs should be tracked to measure business performance and prioritize feature changes
 * Speaks fluently about and utilizes different KPI measurement tools and methodologies
@@ -55,17 +57,22 @@
 * Improves product KPIs constantly through execution of product strategy
 
 ### Technical Skills (20%)
-* Overall, can independently drive the product in any role on the team
-* Translates client painpoints or frustrations into ideas for product improvement
-* Synthesizes requirements into complete and actionable specifications for designers or engineers
-* Possesses a design aesthetic and is knowledgeable about UI/UX principles
-* Visualizes feature requests or improvements through wireframes and mock ups
-* Understands technical tradeoffs, can speak engineering jargon, enjoys getting technical
-* Writes clear and efficient code as outlined in expectations for Software Engineering staff
-* Reviews and critiques implementation from an engineering and design perspective
-* Contributes to maintaining and improving dev ops
-* Contributes to bug response, triage, and documentation
-* Possesses a "product sense" and thought leadership on current products in the market
+* Overall, can independently drive the product in any role on the team (as reasonably expected from a generalist)
+* Requirements
+    - Translates client painpoints or frustrations into ideas for product improvement
+    - Synthesizes requirements into complete and actionable specifications for designers or engineers
+    - Visualizes feature requests or improvements through wireframes and mock ups
+    - Writes clear, concise stories that can be read and understood by product and non-product team members
+* Technical Communication
+    - Possesses a design aesthetic and is knowledgeable about UI/UX principles
+    - Understands technical tradeoffs, can speak engineering jargon, enjoys getting technical
+    - Reviews and critiques implementation from an engineering and design perspective to ensure work aligns with product strategy
+    - Contributes to bug response, triage, and documentation
+        + [MC NOTE: Should this go in `Ships`?]
+* Ships
+    -  Writes clear and efficient code as outlined in expectations for Software Engineering staff
+    -  Contributes to maintaining and improving dev ops
+    -  Possesses a "product sense" and thought leadership on current products in the market
 
 ### Communication (15%)
 * Adjusts style of communication appropriately for different audiences, e.g., clients, engineers, designers, internal stakeholders
