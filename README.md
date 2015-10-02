@@ -91,17 +91,21 @@
     - Wears multiple hats in conversation when a certain party is underrepresented
     - Emphasizes clear, concise, and complete written documentation, particularly for specifications
     - Facilitates cross-functional conversations across engineering, marketing, and design
-
+Co
 
 ### Team Player (15%)
-* Leads by earned influence and credibility, not by authority
-* Maintains a positive, energetic, and professional attitude towards all team members at all times; in particular one is not expected to be friends with every team member outside of work, but is expected to work efficiently with all team members regardless of personal differences
-* Provides ample work opportunity for autonomy, mastery, and purpose to team members
-* Champions a non-discriminatory environment and a safe space to fail and experiment in
-* Celebrates individual and team successes, particularly when KPIs have been positively impacted
-* Communicates with stakeholders in a respectful manner
-* Identifies and resolves team deficiencies quickly; insists on having correct skill sets on teams
-* Recruits new team members with active participation in candidate reachouts, resume reviews, interviews, and other activities
+* Leader
+    - Leads by earned influence and credibility, not by authority
+    - Maintains a positive, energetic, and professional attitude towards all team members at all times; in particular one is not expected to be friends with every team member outside of work, but is expected to work efficiently with all team members regardless of personal differences
+    - Provides ample work opportunity for autonomy, mastery, and purpose to team members
+    - Recruits new team members with active participation in candidate reachouts, resume reviews, interviews, and other activities
+    - Celebrates individual and team successes, particularly when KPIs have been positively impacted
+
+* Servant
+    - Identifies and resolves team deficiencies quickly; insists on having correct skill sets on teams
+    - Champions a non-discriminatory environment and a safe space to fail and experiment in
+    - Communicates with stakeholders in a respectful manner
+
 
 
 ## Criteria for technical staff levels
