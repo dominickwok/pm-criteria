@@ -3,7 +3,7 @@
 ## Desired strengths
 
 ### Product Strategy (25%)
-* Owns a clear, accessible product strategy that states the vision, goals, and roadmap for the product
+* Owns a single, documented, clear, accessible product strategy that states the vision, goals, and roadmap for the product
     - Vision
         + Substantiates the product vision by *articulating the customer challenge, industry, business opportunity, competitors, differentiation, weaknesses, reference customers, go-to-market, and other details relevant to the product*
         + Informs product strategy by understanding end-user goals and frustrations through regular engagement with new and existing customers
@@ -12,8 +12,7 @@
         + Maintains clarity of product strategy by *defining overarching goals* for the product and how end-users will utltimately interact with the product
         + Maintains product goals that enable *quantitative measurement* of success in achieving the product vision
     - Roadmap
-        + Maintains a product roadmap that *details an efficient methodology* to achieve product goals and vision
-            * Question: What do you mean 'efficient methodology' here?
+        + Maintains a product roadmap that *details an efficient apporach* to achieve product goals and vision
         + Guides product roadmap by injecting *thought-leadership based on industry and technology trends into the vision*
 
 * Achieves buy-in from product team and internal stakeholders for product strategy 
@@ -21,16 +20,31 @@
 
 
 ### Execution (25%)
-* Takes ultimate ownership of the success or failure of the product
-* Removes any and all product team blockers at any point in the development lifecycle
-* Makes high integrity timeline commitments and delivers to promised deadlines
-* Helps the team stay on track by keeping JIRA accurate and updated
-* Champions a bottoms-up, agile management methodology
-* Creates a prioritized and clearly-defined work backlog, sufficient for at least 2 sprints
-* Stabilizes team velocity, and secondarily helps team become more efficient from sprint-to-sprint
-* Limits interruptions extraneous to product roadmap unless priorities warrant it (prevents context switching)
-* Covers whatever gap is needed on the team - design, engineering, client facing, etc - in order to ship the product (makes things happen)
-* Sees tasks through to actual completion, not losing track at 80 or 90% done
+* Ownership
+    - Takes ultimate ownership of the success or failure of the product
+    - Covers whatever gap is needed on the team as reasonably as possible - design, engineering, client facing, etc - in order to ship the product (makes things happen)
+    - Sees tasks through to actual completion, not losing track at 80 or 90% done
+
+* Roadmap
+    - Limits interruptions extraneous to product roadmap unless priorities warrant it (prevents context switching)
+    - Creates a prioritized, as defined by business owner, and clearly-defined work backlog, sufficient for at least 2 sprints
+    - Works with key stakeholders to ensure roadmap's efficient approach focuses on delivering the highest value items first
+
+* Sprints
+    - Stabilizes team velocity, and secondarily helps team become more efficient from sprint-to-sprint
+    - Defends scope of current sprint religiously, but willing to yield given sufficient evidence and need
+
+* Daily
+    - Removes any and all product team blockers at any point in the development lifecycle
+    - Keeps JIRA accurate and updated to help team stay on track
+    - Champions a bottoms-up, agile management methodology
+
+* Timelines
+    - Makes *high-integrity timeline commitments & delivers to promised deadlines*
+    - Protects scope of commitments and deadlines to maximize on-time, promised delivery
+    - Communicates changes to timelines and deadlines with clear and reasonable explanations for changes
+
+
 
 ### Measurement, Iteration, and Improvement (20%)
 * Maintains a KPI scorecard that clearly defines what success means for the team
