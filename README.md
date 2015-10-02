@@ -112,10 +112,46 @@ Co
 
 Broadly speaking, the success of a product manager is directly linked to the success of a product
 
-* an _Associate Product Manager_ is someone who is capable of managing the development lifecycle of a _story implementation_;
-* a _Product Manager_ is someone who is capable of managing the development lifecycle of a _feature_;
-* a _Senior Product Manager_ is someone who is capable of managing the development lifecycle of a _major subsystem of a product_, together with its relevant interactions and support systems;
-* a _Principal Product Manager_ is someone who is capable of managing the development lifecycle of a _product_, including assessing the product's contribution to overall organizational strategy and planning technical strategy accordingly.
+* _Associate Product Manager_
+    - Expectations
+        + Manages the development lifecycle of a _story implementation_
+    - Evaluation Criteria:
+        + Product Strategy (5%)
+        + Execution (25%)
+        + Measurement, Iteration, Improvement (15%)
+        + Technical Skills (10%)
+        + Communication (25%)
+        + Team Player (20%)
+* _Product Manager_
+    - Expectations
+        + Manages the development lifecycle of a _feature_;
+    - Evaluation Criteria:
+        + Product Strategy (10%)
+        + Execution (20%)
+        + Measurement, Iteration, Improvement (20%)
+        + Technical Skills (15%)
+        + Communication (20%)
+        + Team Player (15%)
+* _Senior Product Manager_ 
+    - Expectations
+        + Manages the development lifecycle of a _major subsystem of a product_, together with its relevant interactions and support systems;
+  - Evaluation Criteria:
+        + Product Strategy (20%)
+        + Execution (20%)
+        + Measurement, Iteration, Improvement (25%)
+        + Technical Skills (10%)
+        + Communication (15%)
+        + Team Player (10%)
+* a _Principal Product Manager_ 
+    - Expectations
+        + Maages the development lifecycle of a _product_, including assessing the product's contribution to overall organizational strategy and planning technical strategy accordingly.
+    - Evaluation Criteria:
+        + Product Strategy (30%)
+        + Execution (10%)
+        + Measurement, Iteration, Improvement (30%)
+        + Technical Skills (15%)
+        + Communication (10%)
+        + Team Player (5%)
 
 We make this concrete as follows.
 
