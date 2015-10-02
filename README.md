@@ -75,15 +75,23 @@
     -  Possesses a "product sense" and thought leadership on current products in the market
 
 ### Communication (15%)
-* Adjusts style of communication appropriately for different audiences, e.g., clients, engineers, designers, internal stakeholders
-* Represents the "voice of the customer" in all conversations and champions the best interest of the end-user
-* Wears multiple hats in conversation when a certain party is underrepresented
-* Involves all relevant parties at a sufficiently early point in time for ongoing discussions
-* Communicates in a persuasive, structured, and efficient manner
-* Drives to consensus in meetings, never relying on voting
-* Emphasizes clear, concise, and complete written documentation, particularly for specifications
-* Facilitates cross-functional conversations across engineering, marketing, and design
-* Gives honest positive feedback where merited and honest critical feedback in a constructive way
+* Meetings/Logistics
+    - Involves all relevant parties at a sufficiently early point in time for ongoing discussions
+    - Drives to consensus  in meetings, never relying on voting
+    - All meetings have clearly defined goals and outcomes to measure success
+    - Owns meeting follow up and task delegation after getting concensus
+
+* Personal
+    - Adjusts style of communication appropriately for different audiences, e.g., clients, engineers, designers, internal stakeholders
+    - Communicates in a persuasive, structured, and efficient manner
+    - Gives honest positive feedback where merited and honest critical feedback in a constructive way
+
+* Internal
+    - Represents the "voice of the customer" in all conversations and champions the best interest of the end-user
+    - Wears multiple hats in conversation when a certain party is underrepresented
+    - Emphasizes clear, concise, and complete written documentation, particularly for specifications
+    - Facilitates cross-functional conversations across engineering, marketing, and design
+
 
 ### Team Player (15%)
 * Leads by earned influence and credibility, not by authority
