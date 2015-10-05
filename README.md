@@ -9,10 +9,10 @@
         + Informs product strategy by understanding end-user goals and frustrations through regular engagement with new and existing customers
         + Balances different stakeholder views and needs to inform product vision
     - Goals
-        + Maintains clarity of product strategy by *defining overarching goals* for the product and how end-users will utltimately interact with the product
+        + Maintains clarity of product strategy by *defining overarching goals* for the product and how end-users will ultimately interact with the product
         + Maintains product goals that enable *quantitative measurement* of success in achieving the product vision
     - Roadmap
-        + Maintains a product roadmap that *details an efficient apporach* to achieve product goals and vision
+        + Maintains a product roadmap that *details an efficient approach* to achieve product goals and vision
         + Guides product roadmap by injecting *thought-leadership based on industry and technology trends into the vision*
 
 * Achieves buy-in from product team and internal stakeholders for product strategy 
@@ -28,7 +28,7 @@
 * Roadmap
     - Limits interruptions extraneous to product roadmap unless priorities warrant it (prevents context switching)
     - Creates a prioritized, as defined by business owner, and clearly-defined work backlog, sufficient for at least 2 sprints
-    - Works with key stakeholders to ensuEPMre roadmap's efficient approach focuses on delivering the highest value items first
+    - Works with key stakeholders to ensure roadmap's efficient approach focuses on delivering the highest value items first
 
 * Sprints
     - Runs Sprint Review and Planning meetings
@@ -77,9 +77,9 @@
 ### Communication (15%)
 * Meetings/Logistics
     - Involves all relevant parties at a sufficiently early point in time for ongoing discussions
-    - Drives to consensus  in meetings, never relying on voting
+    - Drives to consensus in meetings, never relying on voting
     - All meetings have clearly defined goals and outcomes to measure success
-    - Owns meeting follow up and task delegation after getting concensus
+    - Owns meeting follow up and task delegation after getting consensus
 
 * Personal
     - Adjusts style of communication appropriately for different audiences, e.g., clients, engineers, designers, internal stakeholders
@@ -96,7 +96,7 @@ Co
 ### Team Player (15%)
 * Leader
     - Leads by earned influence and credibility, not by authority
-    - Maintains a positive, energetic, and professional attitude towards all team members at all times; in particular one is not expected to be friends with every team member outside of work, but is expected to work efficiently with all team members regardless of personal differences
+    - Maintains a positive, energetic, and professional attitude towards all team members at all times; in particular, one is not expected to be friends with every team member outside of work, but is expected to work efficiently with all team members regardless of personal differences
     - Provides ample work opportunity for autonomy, mastery, and purpose to team members
     - Recruits new team members with active participation in candidate reachouts, resume reviews, interviews, and other activities
     - Celebrates individual and team successes, particularly when KPIs have been positively impacted
@@ -144,7 +144,7 @@ Broadly speaking, the success of a product manager is directly linked to the suc
         + Team Player (10%)
 * a _Principal Product Manager_ 
     - Expectations
-        + Maages the development lifecycle of a _product_, including assessing the product's contribution to overall organizational strategy and planning technical strategy accordingly.
+        + Manages the development lifecycle of a _product_, including assessing the product's contribution to overall organizational strategy and planning technical strategy accordingly.
     - Evaluation Criteria:
         + Product Strategy (30%)
         + Execution (10%)
@@ -189,5 +189,5 @@ All of the above, plus:
 * Is shipping market-leading software that meets business needs
 * Is forecasting product improvements or needs based on KPI scorecard
 * Is an expert on any role within the team
-* Is an authoratative presenter conferences or at other high-visibility situations
+* Is an authoritative presenter at conferences or at other high-visibility situations
 * Is implementing and maintaining a fun, high-performing team environment
