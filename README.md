@@ -16,10 +16,10 @@ The desired strengths, along with the apprortioned weight by level, is given as 
     - Roadmap
         + Maintains a product roadmap that *details an efficient approach* to achieve product goals and vision
         + Guides product roadmap by injecting *thought-leadership based on industry and technology trends into the vision*
-* Achieves buy-in from product team and internal stakeholders for product strategy 
+* Achieves buy-in from product team and internal stakeholders for product strategy  
 
 ### Execution (35/25/15/5 %)
-* Ownership5    
+* Ownership
     - Takes ultimate ownership of the success or failure of the product
     - Covers whatever gap is needed on the team as reasonably as possible - design, engineering, client facing, etc - in order to ship the product (makes things happen)
     - Sees tasks through to actual completion, not losing track at 80 or 90% done
@@ -28,7 +28,7 @@ The desired strengths, along with the apprortioned weight by level, is given as 
     - Creates a prioritized, as defined by business owner, and clearly-defined work backlog, sufficient for at least 2 sprints
     - Works with key stakeholders to ensure roadmap's efficient approach focuses on delivering the highest value items first
 * Sprints
-    - Runs Sprint Review and Planning meetings
+    - Ensures a team member assumes the role of Scrum Master who runs Sprint Review and Planning meetings
     - Stabilizes team velocity, and secondarily helps team become more efficient from sprint-to-sprint
     - Defends scope of current sprint religiously, but willing to yield given sufficient evidence and need
 * Daily
@@ -42,11 +42,11 @@ The desired strengths, along with the apprortioned weight by level, is given as 
 
 ### Measurement, Iteration, and Improvement (15/20/20/25 %)
 * Measurement
-    - Maintains a KPI scorecard that clearly defines what success means for the team
+    - Maintains a product KPI scorecard that clearly defines the definition of success for the product (e.g., revenue, monthly active users, engagement)
     - States what KPIs should be tracked to measure business performance and prioritize feature changes
     - Speaks fluently about and utilizes different KPI measurement tools and methodologies
 * Insights
-    - Derives impactful and actionable insights for product through analysis of KPIs
+    - Derives product improvement ideas through analysis of product KPIs
     - Anchors decision making, internal discussion, and product vision on insights derived from KPIs
     - Improves product KPIs constantly through execution of product strategy
 
@@ -58,21 +58,20 @@ The desired strengths, along with the apprortioned weight by level, is given as 
     - Visualizes feature requests or improvements through wireframes and mock ups
     - Writes clear, concise stories that can be read and understood by product and non-product team members
 * Technical Communication
-    - Possesses a design aesthetic and is knowledgeable about UI/UX principles
+    - Possesses basic design aesthetic and fundamental UI/UX principles
     - Understands technical tradeoffs, can speak engineering jargon, enjoys getting technical
     - Reviews and critiques implementation from an engineering and design perspective to ensure work aligns with product strategy
 * Ships
-    - When necessary, writes clear and efficient code as outlined in expectations for Software Engineering staff
-    - Contributes to maintaining and improving dev ops
+    - Willing to contribute to implementation needs, such as writing code or dev ops, if absolutely necessary for product success
     - Possesses a "product sense" and thought leadership on current products in the market
     - Contributes to bug response, triage, and documentation
 
 ### Communication (10/10/10/10 %)
 * Meetings/Logistics
     - Involves all relevant parties at a sufficiently early point in time for ongoing discussions
-    - Drives to consensus in meetings, never relying on voting
+    - Drives to consensus in meetings; namely, does not expect all parties to agree 100% of the time, but is able to craft a path forward in spite of conflicting interest
     - All meetings have clearly defined goals and outcomes to measure success
-    - Owns meeting follow up and task delegation after getting consensus
+    - Assumes responsibility for ensuring completion of post-meeting follow-ups
 * Personal
     - Adjusts style of communication appropriately for different audiences, e.g., clients, engineers, designers, internal stakeholders
     - Communicates in a persuasive, structured, and efficient manner
